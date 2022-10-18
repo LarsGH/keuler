@@ -1,6 +1,6 @@
-import problem.Problem3
+import problem.Problem4
 
 fun main() {
-    val problem = Problem3()
+    val problem = Problem4()
     println(problem.getResult())
 }
